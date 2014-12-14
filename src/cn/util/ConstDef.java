@@ -2,6 +2,11 @@ package cn.util;
 
 import java.util.Vector;
 
+/**
+ * ceshi
+ * @author tianxingjian
+ *
+ */
 public class ConstDef {
 	public static final int DEFAULT_WIDTH = 500;
 	public static final int DEFAULT_HEIGHT = 450;
